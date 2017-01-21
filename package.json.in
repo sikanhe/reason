@@ -50,7 +50,7 @@
         "@opam-alpha/easy-format": "^ 1.2.0",
         "@opam-alpha/merlin-extend": "^ 0.3.0",
         "@opam-alpha/menhir": ">= 20160303.0.0",
-        "@opam-alpha/ocaml": "4.2.3",
+        "@opam-alpha/ocaml" : "= 4.02.3",
         "dependency-env": "*",
         "substs": "https://github.com/yunxing/substs.git",
         "opam-installer-bin": "https://github.com/yunxing/opam-installer-bin.git",
